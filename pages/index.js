@@ -46,7 +46,7 @@ const Home = () => {
         <Stack justifyContent="center" alignItems="center" width={"100%"}>
           <IconButton
             onClick={() => {
-              window.open("https://mmcard.online/", "_blank");
+              window.open("https://mmcardsystem.online/", "_blank");
             }}
             sx={{ width: "100%", maxWidth: "400px", height: "400px" }}
           >
